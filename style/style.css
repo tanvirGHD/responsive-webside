@@ -306,6 +306,10 @@ footer input[type="submit"]{
     }
     .header{
         background-image: none;
+        margin-left: 0px;
+    }
+    .secondary-bg{
+        margin-left: 0px;
     }
     nav{
         display: flex;
@@ -325,5 +329,8 @@ footer input[type="submit"]{
     }
     nav ul li {
         margin: 5px;
+    }
+    body{
+        margin: 0px 0px;
     }
 }
